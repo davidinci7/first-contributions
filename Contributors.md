@@ -8297,3 +8297,4 @@ Orandi Harris
 - [Filipe Cruz](https://github.com/filipe7788)
 - [Kenneth Sweezy](https://github.com/KennethSweezy)
 - [Igor Matheus Diniz](https://github.com/igormatheusdiniz)
+- [David Rodriguez] (https://github.com/davidinci7)
